@@ -16,3 +16,9 @@ Prendre en main Python, VS Code, Git et GitHub en créant et en versionnant un p
 
 ## Exécution
 py src/main.py
+
+## Outils utilisés
+- Python 3.12 : langage du programme
+- VS Code : éditeur de code
+- Git : gestion des versions
+- GitHub : hébergement du dépôt en ligne
