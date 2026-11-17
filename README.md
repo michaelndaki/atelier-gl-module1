@@ -22,3 +22,12 @@ py src/main.py
 - VS Code : éditeur de code
 - Git : gestion des versions
 - GitHub : hébergement du dépôt en ligne
+
+## Cloner le projet
+Pour récupérer une copie du projet sur son ordinateur :
+
+```
+git clone https://github.com/michaelndaki/atelier-gl-module1.git
+cd atelier-gl-module1
+py src/main.py
+```
